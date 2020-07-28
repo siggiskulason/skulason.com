@@ -1,1 +1,2 @@
-Website of Siggi Skulason
+Website of Siggi Skulason.
+
