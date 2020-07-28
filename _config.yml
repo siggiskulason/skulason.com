@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: Siggi Skulason
+theme: minima
+description: Website of Siggi Skulason
+show_excerpts: false
